@@ -1,6 +1,6 @@
 ### Oi~ssu!
 
-- 🔭 Working on [https://github.com/enstars/ensemble-square/tree/development](EnSquare) :eyes:
+- 🔭 Working on [EnSquare](https://github.com/enstars/ensemble-square/tree/development) :eyes:
 - 🌱 Learning web coding, React, C++; Want to learn Vue, TypeScript
 - 💬 Feel free to ask me if you need any help with my code or want to contribute!
 - 😄 Pronouns: he/him
