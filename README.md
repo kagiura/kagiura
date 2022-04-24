@@ -1,6 +1,6 @@
 ### Oi~ssu!
 
-- 😄 Yuu · he/they
+- 😄 Yuu · he/they · en/th
 - ✏️ I do a lot of design work! I figured I could learn webdev to put my skills to use.
 - 🔭 Working on [Oissu](https://github.com/enstars/oissu) and [EnSquare](https://github.com/enstars/ensemble-square/tree/development) :eyes:
 - 🌱 Learning web coding, React
