@@ -1,11 +1,13 @@
 
 <p align="center">
+  <a href="https://yuukun.dev/">
 <img alt="name: yuu, pronouns: he/him, race: southeast asian, birthday: math 17th, status: student, location: thailand, languages: english, thai, personaliy: infp-t" src="https://yuukun.dev/home/yuu_dc.png">
+  </a>
 </p>
 
 
-### Oi~ssu!
-> **おい〜っす** *(interj.)* hey there!, hi!
+## Oi~ssu!
+> **おい〜っす** (lit. oi~ssu) *interj., colloquial* hey there!, hi!
 
 - ✏️ Graphic Designer? Frontend Developer? Somewhere in between~
 - 🔭 Working on [Oissu](https://github.com/enstars/oissu), [EnSquare](https://github.com/enstars/ensemble-square/tree/development), and [Sekai Viewer](https://github.com/sekai-world) :eyes:
