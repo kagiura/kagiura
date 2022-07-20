@@ -10,11 +10,9 @@
 ## Oi~ssu!
 > **おい〜っす** (lit. oi~ssu) *interj., colloquial* hey there!, hi!
 
-<img align="left" alt="Kamishiro Rui" height="180" src="https://user-images.githubusercontent.com/58155530/173493624-178afb8a-e66a-4015-88ac-9863c1bddfb1.gif">
-
 <h3><img src="https://img.shields.io/github/license/enstars/oissu?color=c6a0f6&label=license&style=for-the-badge&labelColor=302D41"> <img src="https://img.shields.io/twitter/follow/findermao?color=7dc4e4&label=twitter&logo=twitter&logoColor=fff&style=for-the-badge&labelColor=302D41"> <img src="https://img.shields.io/website?down_color=ed8796&down_message=offline&label=status&logo=vercel&style=for-the-badge&up_color=8aadf4&up_message=online&url=https%3A%2F%2Fyuukun.dev&labelColor=302D41"></h3>
 
-
+<img align="left" alt="Kamishiro Rui" height="180" src="https://user-images.githubusercontent.com/58155530/173493624-178afb8a-e66a-4015-88ac-9863c1bddfb1.gif">
 
 ✏️ Graphic Designer? Frontend Developer? Somewhere in between~
 
